@@ -1,0 +1,6 @@
+#ifndef PYTORCH_QULACS_LIBRARY_H
+#define PYTORCH_QULACS_LIBRARY_H
+
+void hello();
+
+#endif //PYTORCH_QULACS_LIBRARY_H
